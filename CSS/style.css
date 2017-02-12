@@ -49,6 +49,11 @@ h1, h3, h2{
   text-align: center;
 }
 
+h2 {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+}
+
 h3 {
   margin-top: 0px;
   margin-bottom: 20px;
@@ -97,4 +102,13 @@ article {
 
 .page_2 {
   padding-bottom: 102px;
+}
+
+p {
+  margin-left: 20%;
+  max-width: 500px;
+  height: auto;
+  padding: 5px;
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif;
 }
